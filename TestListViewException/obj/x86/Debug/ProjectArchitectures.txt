@@ -1,0 +1,2 @@
+C:\Users\cedri\Downloads\TestListViewException\TestListViewException\ClassLibrary1\ClassLibrary1.csproj;x86
+C:\Users\cedri\Downloads\TestListViewException\TestListViewException\TestListViewException\TestListViewException.csproj;x86
